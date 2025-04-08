@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=cheporte&fontSize=90)
-# Salut à tous !
-## Cheporté on the spot! 👋
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cheporte&fontSize=90)
 
-Welcome to my GitHub profile! I'm just a humble guy who loves diving into programming and making things over-complicated. Here's a bit about me:
+# Salut à tous ! 👋
+
+I'm Cheporté (or Ché-Ché for short)—just a humble guy who loves making things over-complicated and can't get enough of world's wonders.
+</div>
 
 ## 🧑‍💻 Un Peu De Moi
 - 🌱 I’m constantly learning and exploring new technologies. Nothing shall escape my sight! :D
@@ -42,8 +45,16 @@ Yeah, I'm crazy—I try to learn as much as possible. Can't wait to extend this 
 **About**: An "IDE" for RISC-V programming. An attempt to improve existing project [riscv-translator](https://github.com/cheporte/riscv-translator) by rewriting it using Qt framework instead of Kotlin.
 
 ## 📊 Statistiques GitHub
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=radical)
-![I Write In...](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=radical)
+<div align=center>
+  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=tokyonight)
+![I Write In...](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=tokyonight)
+
+<div/>
 
 ## La Musique Qui M'Inspire
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzhkrtqqh7tbkokyittkzfh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=974eb1)](https://github.com/kittinan/spotify-github-profile)
+<div align=center>
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzhkrtqqh7tbkokyittkzfh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=974eb1)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
