@@ -2,10 +2,10 @@
 # Salut à tous !
 ## Cheporté on the spot! 👋
 
-Welcome to my GitHub profile! I'm just a humble guy from Ukraine who loves diving into programming and making things over-complicated. Here's a bit about me:
+Welcome to my GitHub profile! I'm just a humble guy who loves diving into programming and making things over-complicated. Here's a bit about me:
 
 ## 🧑‍💻 Un Peu De Moi
-- 🌱 I’m constantly learning and exploring new technologies, especially Linux and OS related.
+- 🌱 I’m constantly learning and exploring new technologies. Nothing shall escape my sight! :D
 - 📖 I'm currently a CS student willing to create mad stuff with code.
 - ⚡ My interests:
   - Novels and poetry
@@ -39,11 +39,11 @@ Yeah, I'm crazy—I try to learn as much as possible. Can't wait to extend this 
 ## 🌟 Mes Projets
 
 ### [Mephisto](https://github.com/saisenko/mephisto)
-**About**: An "IDE" for RISC-V programming. An attempt to improve existing project [riscv-translator](https://github.com/saisenko/riscv-translator) by rewriting it using Qt framework instead of Kotlin.
+**About**: An "IDE" for RISC-V programming. An attempt to improve existing project [riscv-translator](https://github.com/cheporte/riscv-translator) by rewriting it using Qt framework instead of Kotlin.
 
 ## 📊 Statistiques GitHub
-![saisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisenko&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saisenko&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=radical)
+![I Write In...](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=radical)
 
 ## La Musique Qui M'Inspire
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzhkrtqqh7tbkokyittkzfh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=974eb1)](https://github.com/kittinan/spotify-github-profile)
