@@ -125,10 +125,7 @@ Think of it as: if low-level had a spa day.
 ---
 
 ## 👋 Let's Connect
-
-- **Email**: [cheporte@email.com](mailto:eugene.bevz06@gmail.com)
-- **LinkedIn**: [linkedin.com/in/cheporte]([https://www.linkedin.com/in/cheporte](https://www.linkedin.com/in/yevhenii-bevz-61735b284/))
-- **GitHub**: [github.com/cheporte](https://github.com/cheporte)
+> I'll finish this section later, when I tidy up my socials :>
 
 ---
 
