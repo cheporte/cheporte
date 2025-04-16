@@ -46,7 +46,6 @@
 - 🦀 **Rust** – the siren song I’m drawn to, but haven’t yet embraced (soon... 👀).
 
 ### 🧱 Frameworks & Libraries
-> My trusted companions in the art of creation.
 - ⚛️ **React & React Native** – my go-to for painting the web and mobile dreams.
 - 🌶️ **Flask** – for serving up backends with a sprinkle of spice.
 - 🧊 **Qt** – a playground for crafting desktop wonders.
