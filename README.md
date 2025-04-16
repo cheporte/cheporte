@@ -1,138 +1,107 @@
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cheporte&fontSize=90)
 
-# Salut à tous ! 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cheporte&fontSize=90&animation=twinkling&fontColor=fff&fontAlignY=40)
 
-I'm Cheporté (or Ché-Ché for short)—just a humble guy who loves making things over-complicated and can't get enough of world's wonders.
+### *“Not all wanderers are lost—some are just debugging the stars.”*
+
 </div>
+
+---
+
+## Table of Contents
+1. [Un Peu De Moi](#-un-peu-de-moi)
+2. [Technologies et Outils](#-technologies-et-outils)
+3. [Projets Présentés](#-projets-présentés)
+4. [Restons En Contact](#-restons-en-contact)
+5. [Découvrir Plus](#-découvrir-plus)
 
 ---
 
 ## 🧑‍💻 Un Peu De Moi
-- 🌱 I’m constantly learning and exploring new technologies. Nothing shall escape my sight! :D
-- 📖 Currently a CS student dreaming of creating something wild and beautiful with code.
-- ⚡ My interests:
-  - 📚 Novels & poetry (yes, I do romanticize everything)
-  - ☕ Coffee (the darker the better—also my blood type now)
-  - 🦉 Owls (they see through you... in a good way)
-  - 🌍 Languages fascinate me. Here's my progress bar:
-    - 🇺🇦 Ukrainian – native
-    - 🇷🇺 Russian – wish I never knew it
-    - 🇬🇧 English – C1 and counting
-    - 🇫🇷 French – B1, mais je fais de mon mieux !
-    - 🇯🇵 Japanese – want to learn just for the vibes ✨
+> A glimpse into my world of curious chaos and poetic code.
+- 🌱 Forever a seeker, I chase the endless horizons of technology. Nothing escapes my curious gaze! 👀
+- 📖 A CS student by day, a dreamer by night—crafting code that whispers beauty and chaos into the void.
+- ⚡ My peculiar fascinations:
+  - 📚 Novels & poetry—where words are galaxies, and I’m lost among the stars. (Yes, I romanticize *everything*.)
+  - ☕ Coffee—the elixir of life, brewed dark enough to mirror my late-night debugging sessions.
+  - 🦉 Owls—wise observers of the night, peering into your soul... but only if they like you.
+  - 🌍 Languages—each one a new spell to weave meaning into the world. My progress bar:
+    - 🇺🇦 Ukrainian – native (my mother tongue, my roots 🌻)
+    - 🇷🇺 Russian – a chapter I’d rather close.
+    - 🇬🇧 English – C1 and climbing, fueled by books and memes.
+    - 🇫🇷 French – B1, mais j’y mets tout mon cœur !
+    - 🇯🇵 Japanese – just a vibe I can’t resist ✨
 
 ---
 
 ## 🔧 Technologies et Outils
-### 💬 Languages I Speak (to computers, mostly)
-- 🔷 TypeScript (my main jam for web stuff with React & co.)
-- 🐍 Python
-- ⚛️ JavaScript (still hanging around, but TypeScript's the star)
-- ☕ Java (with sprinkles of Kotlin)
-- 💻 C / C++
-- 🦀 Eager to dive into Rust (one day... soon 👀)
+> My trusted companions in the art of creation.
+
+### 💬 Languages I Whisper To (Computers Mostly)
+- 🔷 **TypeScript** – my spellbook for crafting web magic with React & its pals.
+- ⚛️ **JavaScript** – the old friend I still call when TypeScript’s feeling shy.
+- 🐍 **Python** – for when I want my code to feel elegant and serpentine.
+- ☕ **Java** – where I brew object-oriented wonders (with a pinch of Kotlin spice).
+- 💻 **C / C++** – digging deep into the machinery of thoughts.
+- 🦀 **Rust** – the siren song I’m drawn to, but haven’t yet embraced (soon... 👀).
 
 ### 🧱 Frameworks & Libraries
-- ⚛️ React & React Native
-- 🌶️ Flask
-- 🧊 Qt (I'm quite into it)
-- ☕ Currently learning JavaFX
+> My trusted companions in the art of creation.
+- ⚛️ **React & React Native** – my go-to for painting the web and mobile dreams.
+- 🌶️ **Flask** – for serving up backends with a sprinkle of spice.
+- 🧊 **Qt** – a playground for crafting desktop wonders.
+- ☕ **JavaFX** – where I'm learning to breathe life into Java GUIs.
 
-### 🧰 Other Tools I Like
-- 🧠 Git (because memory is overrated)
-- ⚡ Vite (blazingly fast, like my ideas at 3AM)
-- 🎨 Sass (indented flavor, of course)
-- 🔥 Firebase (for auth & realtime dreams)
-- 📄 Markdown (used more than Word at this point)
-- 🎮 Godot Engine (my cozy playground)
-
-
-Yeah, I'm crazy—I try to learn as much as possible. Can't wait to extend this whole list with even more knowledge :+) 
+### 🧰 Tools of the Trade
+- 🧠 **Git** – because my memory is as unreliable as a non-commit.
+- ⚡ **Vite** – as fast as my midnight ideas (but more structured).
+- 🎨 **Sass** – because plain CSS is like painting with one color.
+- 🔥 **Firebase** – for dreams that need real-time sparks.
+- 📄 **Markdown** – my paper and pen in the digital realm.
+- 🎮 **Godot Engine** – the canvas for my indie game aspirations.
 
 ---
 
-## 🌟 Mes Projets
-### 🧠 [Mephisto](https://github.com/saisenko/mephisto)
-> An "IDE" for RISC-V programming.  
-> A resurrection of my old [riscv-translator](https://github.com/cheporte/riscv-translator) project—this time powered by the Qt framework instead of Kotlin.  
-Think of it as: if low-level had a spa day.
+> Yeah, I know—I’m crazy for trying to learn *everything*. But what’s life without a bit of chaos? Can’t wait to expand this list with even more tools and tech. 🌌
 
 ---
 
-### 🎨 Autres Petits Projets (parce que pourquoi pas ?)
+## 🌟 Projets Présentés
+> A showcase of my most cherished creations. 🌟
+- **[Mephisto](https://github.com/saisenko/mephisto)**  
+  > An "IDE" for RISC-V programming—a resurrection of an idea, now powered by Qt. Think of it as: if low-level had a spa day.
 
-| 🧸 Project | ✨ Description | 💭 Status |
-|-----------|----------------|----------------|
-| [`mnogomov`](https://github.com/cheporte/mnogomov) | Language learning app built with React, Vite, and TypeScript. | WIP |
-| [`jardin-de-cheporte`](https://github.com/cheporte/jardin-de-cheporte) | My personal portfolio, deeply rooted in the Misty Gardens universe. | WIP |
-| [`chez-che-che`](https://cheporte.github.com/chez-che-che) | Bilingual restaurant site (FR/UA) with chef musings & a cozy carousel. | WIP |
-| More coming soon... | The garden never stops growing 🌱 | |
+- **[mnogomov](https://github.com/cheporte/mnogomov)**  
+  > A language-learning app built with React and TypeScript. Because learning should be fun!
+
+- **[chez-che-che](https://cheporte.github.io/chez-che-che)**  
+  > A bilingual restaurant site (FR/UA) filled with chef musings and a cozy carousel.
+
+See my other projects here 👉 [Explore All Projects](docs/projects.md)
 
 ---
 
-## 📊 Statistiques GitHub
+## 👋 Restons En Contact
+> Let’s create something extraordinary together. 🌍
+
+- 💌 Reach me at: [eugene.bevz06@gmail.com](mailto:eugene.bevz06@gmail.com)
+- 🌐 Explore my misty gardens: [Portfolio](https://github.com/cheporte/jardin-de-cheporte)
+- 🐦 Find me on Twitter: [@le_che_che](https://twitter.com/le_che_che)
+
+---
+
+## 📂 Découvrir Plus
+> Dive deeper into my world with these resources:
+
+- [📘 Projects Overview](docs/projects.md)
+- [🎨 Moodboard](docs/moodboard.md)
+- [💭 My Learning Journey](docs/learning-journey.md)
+
+---
+
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=cheporte&theme=tokyonight&hide_border=true&border_radius=15)
+> *"Le code est une poésie silencieuse, une danse entre logique et imagination."*  
+> *"Code is silent poetry, a dance between logic and imagination."*  
 
 </div>
-
-> *They say constellations tell stories...  
-> Mine just commit every night 🌌*
-
----
-
-## 🎧 La Musique Qui M'Inspire
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzhkrtqqh7tbkokyittkzfh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=974eb1)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-> *Sometimes code flows like a melody...  
-> Sometimes I just need lo-fi and stars.*
-
----
-
-## 💭 Mes Petits Rêves
-> Sometimes, my mind drifts to ideas that don't fit in the code, but are still worth dreaming about. 🌙
-
-- **Build my own indie game** with Godot that tells a poetic, surreal story (Misty Gardens but interactive!). 🎮
-- **Write a book** (or at least a novella), blending tech, emotions, and the beauty of the universe. 📚
-- **Create an open-source project** that connects creative coders around the world. 🤝
-- **Travel the world** while coding, writing, and discovering new ways to see life. 🌍
-
----
-
-## 📎 Moodboard (Digital Corner)
-> A collection of things that spark creativity and bring inspiration.
-
-- **Favorite Quotes**:  
-  - "A good programmer is someone who always looks for better ways." - **Donald Knuth**
-  - "Code is like humor. When you have to explain it, it’s bad." - **Cory House**
-
-- **Digital Tools I Love**:  
-  - Figma 🖌️ for wireframes and designs.  
-  - Godot 🎮 for making indie games.  
-  - Spotify 🎶 for coding soundtracks.  
-
----
-
-## 👋 Let's Connect
-> I'll finish this section later, when I tidy up my socials :>
-
----
-
-> *"The journey never ends, just like code and coffee."* ☕💻  
-> _- Cheporté_
-
----
-
-Made with ❤️ by [Cheporté](https://github.com/cheporte) |  
-*Open source, just like my heart* 💖
