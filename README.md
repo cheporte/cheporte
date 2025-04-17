@@ -83,7 +83,7 @@ See my other projects here 👉 [Explore All Projects](docs/projects.md)
 ## 👋 Restons En Contact
 > Let’s create something extraordinary together. 🌍
 
-- 💌 Reach me at: [eugene.bevz06@gmail.com](mailto:eugene.bevz06@gmail.com)
+- 💌 Reach me at: [cheporte.dev@gmail.com](mailto:cheporte.dev@gmail.com)
 - 🌐 Explore my misty gardens: [Portfolio](https://github.com/cheporte/jardin-de-cheporte)
 - 🐦 Find me on Twitter: [@le_che_che](https://twitter.com/le_che_che)
 
