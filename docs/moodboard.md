@@ -1,4 +1,4 @@
-# 🪐 Moodboard Numérique
+# 🪐 Moodboard
 > A dreamy constellation of sounds, visions, and little sparks of madness.
 
 ---
