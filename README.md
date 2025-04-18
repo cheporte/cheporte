@@ -1,24 +1,24 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=cheporte&fontSize=90&animation=twinkling&fontColor=fff&fontAlignY=40)
 
-### *“Not all wanderers are lost—some are just debugging the stars.”*
+![Header](./img/github-header-image.png)
+
+> *“Not all wanderers are lost—some are just debugging the stars.”*
 
 </div>
 
 ---
 
 ## Table of Contents
-1. [Un Peu De Moi](#-un-peu-de-moi)
-2. [Technologies et Outils](#-technologies-et-outils)
-3. [Projets Présentés](#-projets-présentés)
-4. [Restons En Contact](#-restons-en-contact)
-5. [Découvrir Plus](#-découvrir-plus)
+1. [About Me](#-about-me)
+2. [Technologies and Tools](#-technologies-and-tools)
+3. [My Projects](#-my-projects)
+4. [Leave a Whisper](#-leave-a-whisper)
+5. [Read More](#-read-more)
 
 ---
 
-## 🧑‍💻 Un Peu De Moi
-> A glimpse into my world of curious chaos and poetic code.
+## 🧑‍💻 About Me
 - 🌱 Forever a seeker, I chase the endless horizons of technology. Nothing escapes my curious gaze! 👀
 - 📖 A CS student by day, a dreamer by night—crafting code that whispers beauty and chaos into the void.
 - ⚡ My peculiar fascinations:
@@ -34,8 +34,7 @@
 
 ---
 
-## 🔧 Technologies et Outils
-> My trusted companions in the art of creation.
+## 🔧 Technologies and Tools
 
 ### 💬 Languages I Whisper To (Computers Mostly)
 - 🔷 **TypeScript** – my spellbook for crafting web magic with React & its pals.
@@ -65,42 +64,26 @@
 
 ---
 
-## 🌟 Projets Présentés
-> A showcase of my most cherished creations. 🌟
-- **[Mephisto](https://github.com/saisenko/mephisto)**  
-  > An "IDE" for RISC-V programming—a resurrection of an idea, now powered by Qt. Think of it as: if low-level had a spa day.
+## 🌟 My Projects
 
-- **[mnogomov](https://github.com/cheporte/mnogomov)**  
-  > A language-learning app built with React and TypeScript. Because learning should be fun!
-
-- **[chez-che-che](https://cheporte.github.io/chez-che-che)**  
-  > A bilingual restaurant site (FR/UA) filled with chef musings and a cozy carousel.
+| Name | Description | Status |
+| ---- | ----------- | ------ |
+| **[Mephisto](https://github.com/saisenko/mephisto)** | An "IDE" for RISC-V programming—a resurrection of an idea, now powered by Qt. Think of it as: if low-level had a spa day. | WIP |
+| **[mnogomov](https://github.com/cheporte/mnogomov)** | A language-learning app built with React and TypeScript. Because learning should be fun! | WIP |
+| **[chez-che-che](https://cheporte.github.io/chez-che-che)** | A restaurant site filled with chef musings and a cozy carousel. | WIP |
 
 See my other projects here 👉 [Explore All Projects](docs/projects.md)
 
 ---
 
-## 👋 Restons En Contact
-> Let’s create something extraordinary together. 🌍
-
+## 👋 Leave a Whisper
 - 💌 Reach me at: [cheporte.dev@gmail.com](mailto:cheporte.dev@gmail.com)
-- 🌐 Explore my misty gardens: [Portfolio](https://github.com/cheporte/jardin-de-cheporte)
+- 🌐 Explore my misty gardens: [Portfolio](https://github.com/cheporte/jardin-de-cheporte) (WIP, nevermind)
 - 🐦 Find me on Twitter: [@le_che_che](https://twitter.com/le_che_che)
 
 ---
 
-## 📂 Découvrir Plus
-> Dive deeper into my world with these resources:
-
+## 📂 Read More
 - [📘 Projects Overview](docs/projects.md)
 - [🎨 Moodboard](docs/moodboard.md)
 - [💭 My Learning Journey](docs/learning-journey.md)
-
----
-
-<div align="center">
-
-> *"Le code est une poésie silencieuse, une danse entre logique et imagination."*  
-> *"Code is silent poetry, a dance between logic and imagination."*  
-
-</div>
