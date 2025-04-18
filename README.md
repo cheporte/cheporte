@@ -32,10 +32,25 @@
     - 🇫🇷 French – B1, mais j’y mets tout mon cœur !
     - 🇯🇵 Japanese – just a vibe I can’t resist ✨
 
+### 📈 My Stats
+<div align=center>
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=cheporte&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Readme Stats -->
+![Cheporté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=radical&hide=stars&count_private=true)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=radical)
+
+</div>
+
+> *Could be better, but I won't stop learning!*
 ---
 
-## 🔧 Technologies and Tools
 
+## 🔧 Technologies and Tools
 ### 💬 Languages I Whisper To (Computers Mostly)
 - 🔷 **TypeScript** – my spellbook for crafting web magic with React & its pals.
 - ⚛️ **JavaScript** – the old friend I still call when TypeScript’s feeling shy.
