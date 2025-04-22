@@ -35,9 +35,6 @@
 ### 📈 My Stats
 <div align=center>
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=cheporte&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <!-- GitHub Readme Stats -->
 ![Cheporté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=radical&hide=stars&count_private=true)
 
