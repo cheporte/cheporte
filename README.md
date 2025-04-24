@@ -1,7 +1,12 @@
 <div align=center>
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./img/github-header-image-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="./img/github-header-image-light.png">
 
-![Header](./img/github-header-image.png)
+<img alt="Fallback image desc" src="./img/github-header-image-dark.png"/>
+</picture>
+
 
 > *“Not all wanderers are lost—some are just debugging the stars.”*
 
@@ -13,8 +18,7 @@
 1. [About Me](#-about-me)
 2. [Technologies and Tools](#-technologies-and-tools)
 3. [My Projects](#-my-projects)
-4. [Leave a Whisper](#-leave-a-whisper)
-5. [Read More](#-read-more)
+4. [Read More](#-read-more)
 
 ---
 
@@ -36,10 +40,10 @@
 <div align=center>
 
 <!-- GitHub Readme Stats -->
-![Cheporté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=radical&hide=stars&count_private=true)
+![Cheporté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=transparent&hide=stars&count_private=true&rank_icon=github)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=transparent)
 
 </div>
 
@@ -68,7 +72,6 @@
 - 🎨 **Sass** – because plain CSS is like painting with one color.
 - 🔥 **Firebase** – for dreams that need real-time sparks.
 - 📄 **Markdown** – my paper and pen in the digital realm.
-- 🎮 **Godot Engine** – the canvas for my indie game aspirations.
 
 ---
 
@@ -85,13 +88,6 @@
 | **[chez-che-che](https://cheporte.github.io/chez-che-che)** | A restaurant site filled with chef musings and a cozy carousel. | WIP |
 
 See my other projects here 👉 [Explore All Projects](docs/projects.md)
-
----
-
-## 👋 Leave a Whisper
-- 💌 Reach me at: [cheporte.dev@gmail.com](mailto:cheporte.dev@gmail.com)
-- 🌐 Explore my misty gardens: [Portfolio](https://github.com/cheporte/jardin-de-cheporte) (WIP, nevermind)
-- 🐦 Find me on Twitter: [@le_che_che](https://twitter.com/le_che_che)
 
 ---
 

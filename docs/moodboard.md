@@ -3,7 +3,7 @@
 
 ---
 
-## 🎧 Soundtrack de l'Âme
+## 🎧 Music to Inspire
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifzhkrtqqh7tbkokyittkzfh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=974eb1)](https://github.com/kittinan/spotify-github-profile)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌙 Petits Rêves en Suspend
+## 🌙 My humble dreams
 > Dreams I keep in my pocket, just in case the stars align.
 
 - 🎮 Build an indie game that feels like a poem you can walk through.
@@ -32,7 +32,6 @@
   - “Inspiration exists, but it has to find you working.” – Pablo Picasso
 - Creative Tools I Adore
   - 🎨 Figma – because wireframes are just digital daydreams.
-  - 🎮 Godot – for sketching souls into pixels.
   - 🎶 Spotify – my faithful companion during long coding rituals.
 
 ---
