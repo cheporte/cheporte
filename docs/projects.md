@@ -1,53 +1,91 @@
-# 🌌 Projects I'm Proud Of
-
-## 1: "Chez Ché-Ché" 🍷
 <div align=center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=transparent)](https://github.com/cheporte/chez-che-che)
+# ✨Projects: Past, Present, Future✨
 
-</div>
+<p style="font-size:24px;">𓆩🐦𓆪 ─── Hummingbird ─── 𓆩🐦𓆪</p>
 
-> *A place where code meets cuisine, and every pixel is a plate.*
+> *A tiny app with a loud voice...*
 
-| Project Name | About | Tech Stack | Status |
-| ------------ | ----- | ------------- | ------ |
-| chez-che-che | A restaurant site filled with chef musings and a cozy carousel. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)| 🛠 In Progress |
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
-"Chez Ché-Ché" is a restaurant website inspired by poetic menus and whimsical chefs. It’s not just a showcase of dishes—it’s a curated dining experience told through carousel musings, interactive menus, and character-driven charm.
+<p align="center">
 
----
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+</p>
 
-## 2: "Mnogomov" 🌍
-<div align=center>
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=transparent)](https://github.com/cheporte/mnogomov)
-
-</div>
-
-> *A spellbook for language learners—where words become worlds.*
-
-| Project Name | About | Tech Stack | Status |
-| ------------ | ----- | ------------- | ------ |
-| mnogomov | A language-learning app that organizes words, tracks progress, and lets learners explore their polyglot potential. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | 🛠 In Progress |
-
-Mnogomov (from ukrainian “много мов”—“many languages”) is a minimalistic but enchanting language-learning app. It helps you track vocabulary across different courses, while maintaining a beautiful and intuitive UI for everyday exploration.
-
-
-## 3: Hummingbird 🐦
-<div align=center>
+|       |       |
+|-------|-------|
+|**Desc.**| A minimalist Twitter-like mobile app built with React Native (Expo) and Firebase, where users can chirrp short posts — poetic blurbs, code-thoughts, and pixel dreams. |
+|**Status**|Fully blossomed 🌼|
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=transparent)](https://github.com/cheporte/hummingbird)
 
+
+---
+
+<p style="font-size:24px;">𓆩📚𓆪 ─── Mnogomov ─── 𓆩📚𓆪</p>
+
+> *Learn languages by heart, not memory...*
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+Still choosing DB...
+
+</p>
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
+
+|       |       |
+|-------|-------|
+|**Desc.**| Mnogomov is a friendly, pastel-wrapped language learning app for curious minds who dream in more than one tongue ✨. Whether you're wooing the world in French, vibing with Japanese, or singing with the Ukrainian nightingales — Mnogomov is your whimsical guide through words and meaning. |
+|**Status**|Still growing 🌱|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=transparent)](https://github.com/cheporte/mnogomov)
+
+---
+
+<p style="font-size:24px;">𓆩🍷𓆪 ─── Chez Ché-Ché ─── 𓆩🍷𓆪</p>
+
+> *Let your soul dine...*
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</p>
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
+
+|       |       |
+|-------|-------|
+|**Desc.**| A modern, responsive, and stylish website built using React, Vite, TypeScript, and Sass (with indented syntax). Chez Ché-Ché offers a delightful culinary experience, and this website showcases the restaurant's offerings, chefs, and more. |
+|**Status**|Nearing blossom 🌸|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=transparent)](https://github.com/cheporte/chez-che-che)
+
+---
+
+> *... More to be added soon ...*
+
 </div>
-
-> *A cozy little social nest, where every chirp counts and every flutter finds a friend.*
-
-| Project Name | About | Tech Stack | Status |
-| ------------ | ----- | ------------- | ------ |
-| Hummingbird | A minimalist microblogging app inspired by birdsong—users can chirp short posts, follow each other, and share tiny moments. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | Finished |
-
-Hummingbird is like a little treehouse 🌳 where you can:
-- 🐣 Post chirrps (tiny posts with optional images)
-- ✨ Sign up, log in, and flutter freely
-- 🎨 Personalize your profile
-- 📰 See others' chirrps in the feed

@@ -1,97 +1,67 @@
-<div align=center>
+<div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./img/github-header-image-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="./img/github-header-image-light.png">
-
-<img alt="Fallback image desc" src="./img/github-header-image-dark.png"/>
+<img alt="A cosmic dreamscape" src="./img/github-header-image-dark.png"/>
 </picture>
-
 
 > *“Not all wanderers are lost—some are just debugging the stars.”*
 
+![Lost in Dream](https://img.shields.io/badge/lost_in_dreams-🌙-blueviolet?style=flat-square)
+![Languages Badge](https://img.shields.io/badge/languages-polyglot-brightgreen?style=flat-square)
+![Coffee Badge](https://img.shields.io/badge/coffee-yes-important?style=flat-square)
+
+![Mood: caffeinated](https://img.shields.io/badge/mood-caffeinated-ff69b4?style=flat-square)
+![Mood: existential](https://img.shields.io/badge/mood-existential-9b59b6?style=flat-square)
+![Mood: pixel_dreamer](https://img.shields.io/badge/mood-pixel_dreamer-1abc9c?style=flat-square)
+
+<!-- I'm not good enough for this T^T -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=cheporte&theme=tokyonight" /> -->
+ 
+<p style="font-size:24px;">𓆩🌱𓆪 ─── About Me ─── 𓆩🌱𓆪</p>
+
+🌇 programmer at dawn, poet at dusk 🌆 | coffee addict ☕ | owl manic🦉 | debugging myself 🌐 | overthinking.exe ☁️ | emotionally open-source 💞 | forever in beta 🌙 | ./chronic_loner.sh 🌒
+
+<p style="font-size:24px;">𓆩🛠️𓆪 ─── Tech Arsenal ─── 𓆩🛠️𓆪</p>
+
+### ⚡ The REM Stack — Not a Coincidence ;>
+<div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,mongo" />
+  </a>
+</p>
+
+*Built with dreams, rebellion, and 3AM coffee.*
+
+
+Want to see what other forbidden spells I know? ➡️ [Click to open the Arcane Codex](docs/skills.md)
+
+<p style="font-size:24px;">𓆩🫠𓆪 ─── It Hasn't Broken Yet ─── 𓆩🫠𓆪</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=tokyonight)](https://github.com/cheporte/hummingbird)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=tokyonight)](https://github.com/cheporte/mnogomov)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=tokyonight)](https://github.com/cheporte/chez-che-che)
+
+> 🔎 *Want to see more? ➡️ [Explore All Projects](docs/projects.md)*
+
+
+<p style="font-size:24px;">𓆩😵‍💫𓆪 ─── Commit Swings ─── 𓆩😵‍💫𓆪</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cheporte&theme=tokyonight" alt="GitHub Streak" />
+
+[![Cheporte's Commit Swings](https://github-readme-activity-graph.vercel.app/graph?username=cheporte&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+> 🌟 *“The horizon isn't the limit—it's just the starting line.”* 🌟
+
 </div>
 
 ---
-
-## 🌌 Table of Contents
-1. 🌱 [About Me](#-about-me)
-2. 🧰 [Tech & Tools](#-technologies-and-tools)
-3. 🧪 [Projects in Progress](#-my-projects)
-4. 📚 [Deep Dive Reads](#-read-more)
-
+**Made with dreams, bugs, and lots of coffee by your petit [che-che](https://github.com/cheporte) ☕✨**
 ---
-
-## 🧑‍💻 About Me
-- 🌱 Forever a seeker, I chase the endless horizons of technology. Nothing escapes my curious gaze! 👀
-- 📖 A CS student by day, a dreamer by night—crafting code that whispers beauty and chaos into the void.
-- ⚡ My peculiar fascinations:
-  - 📚 Novels & poetry—where words are galaxies, and I’m lost among the stars. (Yes, I romanticize *everything*.)
-  - ☕ Coffee—the elixir of life, brewed dark enough to mirror my late-night debugging sessions.
-  - 🦉 Owls—wise observers of the night, peering into your soul... but only if they like you.
-  - 🌍 Languages—each one a new spell to weave meaning into the world. My progress bar:
-    - 🇺🇦 Ukrainian – native (my mother tongue, my roots 🌻)
-    - 🇷🇺 Russian – a chapter I’d rather close.
-    - 🇬🇧 English – C1 and climbing, fueled by books and memes.
-    - 🇫🇷 French – B1, mais j’y mets tout mon cœur !
-    - 🇯🇵 Japanese – just a vibe I can’t resist ✨
-
-### 📈 My Stats
-<div align=center>
-
-<!-- GitHub Readme Stats -->
-![Cheporté's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=transparent&hide=stars&count_private=true&rank_icon=github)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=transparent)
-
-</div>
-
-> *Could be better, but I won't stop learning!*
----
-
-
-## 🔧 Technologies and Tools
-### 💬 Languages I Whisper To (Computers Mostly)
-- 🔷 **TypeScript** – my spellbook for crafting web magic with React & its pals.
-- ⚛️ **JavaScript** – the old friend I still call when TypeScript’s feeling shy.
-- 🐍 **Python** – for when I want my code to feel elegant and serpentine.
-- ☕ **Java** – where I brew object-oriented wonders (with a pinch of Kotlin spice).
-- 💻 **C / C++** – digging deep into the machinery of thoughts.
-- 🦀 **Rust** – the siren song I’m drawn to, but haven’t yet embraced (soon... 👀).
-
-### 🧱 Frameworks & Libraries
-- ⚛️ **React & React Native** – my go-to for painting the web and mobile dreams.
-- 🌶️ **Flask** – for serving up backends with a sprinkle of spice.
-- 🧊 **Qt** – a playground for crafting desktop wonders.
-- ☕ **JavaFX** – where I'm learning to breathe life into Java GUIs.
-
-### 🧰 Tools of the Trade
-- 🧠 **Git** – because my memory is as unreliable as a non-commit.
-- ⚡ **Vite** – as fast as my midnight ideas (but more structured).
-- 🎨 **Sass** – because plain CSS is like painting with one color.
-- 🔥 **Firebase** – for dreams that need real-time sparks.
-- 📄 **Markdown** – my paper and pen in the digital realm.
-
----
-
-> Yeah, I know—I’m crazy for trying to learn *everything*. But what’s life without a bit of chaos? Can’t wait to expand this list with even more tools and tech. 🌌
-
----
-
-## 🌟 My Projects
-
-| Name | Description | Status |
-| ---- | ----------- | ------ |
-| **[Mephisto](https://github.com/saisenko/mephisto)** | An "IDE" for RISC-V programming—a resurrection of an idea, now powered by Qt. Think of it as: if low-level had a spa day. | WIP |
-| **[mnogomov](https://github.com/cheporte/mnogomov)** | A language-learning app built with React and TypeScript. Because learning should be fun! | WIP |
-| **[chez-che-che](https://cheporte.github.io/chez-che-che)** | A restaurant site filled with chef musings and a cozy carousel. | WIP |
-
-See my other projects here 👉 [Explore All Projects](docs/projects.md)
-
----
-
-## 📂 Read More
-- [📘 Projects Overview](docs/projects.md)
-- [🎨 Moodboard](docs/moodboard.md)
-- [💭 My Learning Journey](docs/learning-journey.md)
