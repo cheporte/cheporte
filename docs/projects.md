@@ -32,8 +32,22 @@
 
 Mnogomov (from ukrainian “много мов”—“many languages”) is a minimalistic but enchanting language-learning app. It helps you track vocabulary across different courses, while maintaining a beautiful and intuitive UI for everyday exploration.
 
-**TODO**:
-- Progress tracking and quiz modules
-- Daily learning streaks with custom motivational quotes
-- Interactive course editor
-- port on mobile via React Native
+
+## 3: Hummingbird 🐦
+<div align=center>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=transparent)](https://github.com/cheporte/hummingbird)
+
+</div>
+
+> *A cozy little social nest, where every chirp counts and every flutter finds a friend.*
+
+| Project Name | About | Tech Stack | Status |
+| ------------ | ----- | ------------- | ------ |
+| Hummingbird | A minimalist microblogging app inspired by birdsong—users can chirp short posts, follow each other, and share tiny moments. | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | Finished |
+
+Hummingbird is like a little treehouse 🌳 where you can:
+- 🐣 Post chirrps (tiny posts with optional images)
+- ✨ Sign up, log in, and flutter freely
+- 🎨 Personalize your profile
+- 📰 See others' chirrps in the feed

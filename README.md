@@ -14,11 +14,11 @@
 
 ---
 
-## Table of Contents
-1. [About Me](#-about-me)
-2. [Technologies and Tools](#-technologies-and-tools)
-3. [My Projects](#-my-projects)
-4. [Read More](#-read-more)
+## 🌌 Table of Contents
+1. 🌱 [About Me](#-about-me)
+2. 🧰 [Tech & Tools](#-technologies-and-tools)
+3. 🧪 [Projects in Progress](#-my-projects)
+4. 📚 [Deep Dive Reads](#-read-more)
 
 ---
 
