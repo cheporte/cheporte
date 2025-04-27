@@ -19,11 +19,11 @@
 <!-- I'm not good enough for this T^T -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=cheporte&theme=tokyonight" /> -->
  
-<p style="font-size:24px;">𓆩🌱𓆪 ─── About Me ─── 𓆩🌱𓆪</p>
+<p style="font-size:24px;">🌱─── About Me ───🌱</p>
 
 🌇 programmer at dawn, poet at dusk 🌆 | coffee addict ☕ | owl manic🦉 | debugging myself 🌐 | overthinking.exe ☁️ | emotionally open-source 💞 | forever in beta 🌙 | ./chronic_loner.sh 🌒
 
-<p style="font-size:24px;">𓆩🛠️𓆪 ─── Tech Arsenal ─── 𓆩🛠️𓆪</p>
+<p style="font-size:24px;">🛠️─── Tech Arsenal ───🛠️</p>
 
 ### ⚡ The REM Stack — Not a Coincidence ;>
 <div align="center">
@@ -50,7 +50,7 @@ Want to see what other forbidden spells I know? ➡️ [Click to open the Arcane
 > 🔎 *Want to see more? ➡️ [Explore All Projects](docs/projects.md)*
 
 
-<p style="font-size:24px;">𓆩😵‍💫𓆪 ─── Commit Swings ─── 𓆩😵‍💫𓆪</p>
+<p style="font-size:24px;">😵‍💫─── Commit Swings ───😵‍💫</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheporte&theme=tokyonight" alt="GitHub Streak" />
 

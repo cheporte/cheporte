@@ -2,7 +2,7 @@
 
 # ✨Projects: Past, Present, Future✨
 
-<p style="font-size:24px;">𓆩🐦𓆪 ─── Hummingbird ─── 𓆩🐦𓆪</p>
+<p style="font-size:24px;">🐦─── Hummingbird ───🐦</p>
 
 > *A tiny app with a loud voice...*
 
@@ -29,7 +29,7 @@
 
 ---
 
-<p style="font-size:24px;">𓆩📚𓆪 ─── Mnogomov ─── 𓆩📚𓆪</p>
+<p style="font-size:24px;">📚─── Mnogomov ───📚</p>
 
 > *Learn languages by heart, not memory...*
 
@@ -54,11 +54,11 @@ Still choosing DB...
 |**Desc.**| Mnogomov is a friendly, pastel-wrapped language learning app for curious minds who dream in more than one tongue ✨. Whether you're wooing the world in French, vibing with Japanese, or singing with the Ukrainian nightingales — Mnogomov is your whimsical guide through words and meaning. |
 |**Status**|Still growing 🌱|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=transparent)](https://github.com/cheporte/mnogomov)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=tokyonight)](https://github.com/cheporte/mnogomov)
 
 ---
 
-<p style="font-size:24px;">𓆩🍷𓆪 ─── Chez Ché-Ché ─── 𓆩🍷𓆪</p>
+<p style="font-size:24px;">🍷─── Chez Ché-Ché ───🍷</p>
 
 > *Let your soul dine...*
 
@@ -82,7 +82,30 @@ Still choosing DB...
 |**Desc.**| A modern, responsive, and stylish website built using React, Vite, TypeScript, and Sass (with indented syntax). Chez Ché-Ché offers a delightful culinary experience, and this website showcases the restaurant's offerings, chefs, and more. |
 |**Status**|Nearing blossom 🌸|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=transparent)](https://github.com/cheporte/chez-che-che)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=tokyonight)](https://github.com/cheporte/chez-che-che)
+
+<p style="font-size:24px;">🌠─── Comet ───🌠</p>
+
+> *Comet your thoughts into space...*
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</p>
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
+
+|       |       |
+|-------|-------|
+|**Desc.**| A tiny messenger between stars.  |
+|**Status**|Still growing 🌱|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=comet-messenger&theme=tokyonight)](https://github.com/cheporte/comet-messenger)
 
 ---
 
