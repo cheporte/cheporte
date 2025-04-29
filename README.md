@@ -39,7 +39,7 @@
 
 Want to see what other forbidden spells I know? ➡️ [Click to open the Arcane Codex](docs/skills.md)
 
-<p style="font-size:24px;">𓆩🫠𓆪 ─── It Hasn't Broken Yet ─── 𓆩🫠𓆪</p>
+<p style="font-size:24px;">🫠─── It Hasn't Broken Yet ───🫠</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=tokyonight)](https://github.com/cheporte/hummingbird)
 
