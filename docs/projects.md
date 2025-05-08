@@ -109,6 +109,31 @@ Still choosing DB...
 
 ---
 
+<p style="font-size:24px;">🌠─── cherry-v ───🌠</p>
+
+> *Don't fear to risc and assemeble ...*
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p align="center">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+</p>
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
+
+|       |       |
+|-------|-------|
+|**Desc.**| A simple RISC-V translator, dreaming to become a full-scale IDE  |
+|**Status**|Still growing 🌱|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)
+
+---
+
 > *... More to be added soon ...*
 
 </div>

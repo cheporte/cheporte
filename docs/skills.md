@@ -46,7 +46,7 @@
 <p style="font-size:24px;">📚 Wanna Learn 📚</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nix,astro,tauri,docker" />
+  <img src="https://skillicons.dev/icons?i=rust,nix,astro,tailwind,tauri,docker" />
 </p>
 
 ✦──────────────────────────────✦
