@@ -9,12 +9,7 @@
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+  <img src="https://skillicons.dev/icons?i=react,ts,firebase" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
@@ -36,15 +31,7 @@
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-Still choosing DB...
-
+  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,nodejs,express,mongo" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
@@ -65,14 +52,7 @@ Still choosing DB...
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,sass,nodejs,express,firebase" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
@@ -91,11 +71,7 @@ Still choosing DB...
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
@@ -116,11 +92,7 @@ Still choosing DB...
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,qt" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
@@ -128,6 +100,27 @@ Still choosing DB...
 |       |       |
 |-------|-------|
 |**Desc.**| A simple RISC-V translator, dreaming to become a full-scale IDE  |
+|**Status**|Still growing 🌱|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)
+
+---
+
+<p style="font-size:24px;">🖤─── martha ───🖤</p>
+
+> *Don't fear to risc and assemeble ...*
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,git" />
+</p>
+
+<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
+
+|       |       |
+|-------|-------|
+|**Desc.**| A vault for your code, a memory for your trembling heart  |
 |**Status**|Still growing 🌱|
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)

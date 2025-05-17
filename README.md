@@ -13,24 +13,24 @@
 ![Coffee Badge](https://img.shields.io/badge/coffee-yes-important?style=flat-square)
 
 ![Mood: caffeinated](https://img.shields.io/badge/mood-caffeinated-ff69b4?style=flat-square)
-![Mood: existential](https://img.shields.io/badge/mood-existential-9b59b6?style=flat-square)
-![Mood: pixel_dreamer](https://img.shields.io/badge/mood-pixel_dreamer-1abc9c?style=flat-square)
+![Mood: in love, yet alone](https://img.shields.io/badge/mood-in_love,_yet_alone-9b59b6?style=flat-square)
+![Mood: pixel_dreamer](https://img.shields.io/badge/mood-poetry_reignited-1abc9c?style=flat-square)
 
 <!-- I'm not good enough for this T^T -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=cheporte&theme=tokyonight" /> -->
- 
+
 <p style="font-size:24px;">🌱─── About Me ───🌱</p>
 
 🌇 programmer at dawn, poet at dusk 🌆 | coffee addict ☕ | owl manic🦉 | debugging myself 🌐 | overthinking.exe ☁️ | emotionally open-source 💞 | forever in beta 🌙 | ./chronic_loner.sh 🌒
 
 <p style="font-size:24px;">🛠️─── Tech Arsenal ───🛠️</p>
 
-### ⚡ The REM Stack — Not a Coincidence ;>
+### ⚡ The MERN Stack - From Haters to Lovers
 <div align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,mongo" />
+    <img src="https://skillicons.dev/icons?i=mongo,express,nodejs,react" />
   </a>
 </p>
 
@@ -39,13 +39,11 @@
 
 Want to see what other forbidden spells I know? ➡️ [Click to open the Arcane Codex](docs/skills.md)
 
-<p style="font-size:24px;">🫠─── It Hasn't Broken Yet ───🫠</p>
+<p style="font-size:24px;">─── My Treausure ───</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=tokyonight)](https://github.com/cheporte/hummingbird)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=martha&theme=tokyonight)](https://github.com/cheporte/martha)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=tokyonight)](https://github.com/cheporte/mnogomov)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=tokyonight)](https://github.com/cheporte/chez-che-che)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)
 
 > 🔎 *Want to see more? ➡️ [Explore All Projects](docs/projects.md)*
 

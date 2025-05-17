@@ -30,7 +30,7 @@
 <p style="font-size:24px;">🧰 Tomes of Power 🧰</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase,sass,vite,express,nodejs,git,md&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,sass,tailwind,vite,express,nodejs,git,md&perline=6" />
 </p>
 
 ✦──────────────────────────────✦
@@ -46,7 +46,7 @@
 <p style="font-size:24px;">📚 Wanna Learn 📚</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nix,astro,tailwind,tauri,docker" />
+  <img src="https://skillicons.dev/icons?i=rust,go,nix,astro,tauri,docker" />
 </p>
 
 ✦──────────────────────────────✦
