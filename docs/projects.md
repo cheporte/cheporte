@@ -71,7 +71,7 @@
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,postgres" />
 </p>
 
 <p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>

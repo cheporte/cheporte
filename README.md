@@ -1,23 +1,9 @@
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./img/github-header-image-dark.png">
-<source media="(prefers-color-scheme: light)" srcset="./img/github-header-image-light.png">
-<img alt="A cosmic dreamscape" src="./img/github-header-image-dark.png"/>
-</picture>
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=cheporte&fontSize=90)
 
 > *“Not all wanderers are lost—some are just debugging the stars.”*
 
-![Lost in Dream](https://img.shields.io/badge/lost_in_dreams-🌙-blueviolet?style=flat-square)
-![Languages Badge](https://img.shields.io/badge/languages-polyglot-brightgreen?style=flat-square)
-![Coffee Badge](https://img.shields.io/badge/coffee-yes-important?style=flat-square)
-
-![Mood: caffeinated](https://img.shields.io/badge/mood-caffeinated-ff69b4?style=flat-square)
-![Mood: in love, yet alone](https://img.shields.io/badge/mood-in_love,_yet_alone-9b59b6?style=flat-square)
-![Mood: pixel_dreamer](https://img.shields.io/badge/mood-poetry_reignited-1abc9c?style=flat-square)
-
-<!-- I'm not good enough for this T^T -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=cheporte&theme=tokyonight" /> -->
 
 <p style="font-size:24px;">🌱─── About Me ───🌱</p>
 
