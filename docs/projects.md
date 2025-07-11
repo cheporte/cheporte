@@ -85,48 +85,6 @@
 
 ---
 
-<p style="font-size:24px;">🌠─── cherry-v ───🌠</p>
-
-> *Don't fear to risc and assemeble ...*
-
-<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,qt" />
-</p>
-
-<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
-
-|       |       |
-|-------|-------|
-|**Desc.**| A simple RISC-V translator, dreaming to become a full-scale IDE  |
-|**Status**|Still growing 🌱|
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)
-
----
-
-<p style="font-size:24px;">🖤─── martha ───🖤</p>
-
-> *Don't fear to risc and assemeble ...*
-
-<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:*　Tech Stack　*:･ﾟ✧*:･ﾟ✧</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,git" />
-</p>
-
-<p style="font-size:16px;">✧･ﾟ: *✧･ﾟ:* About *:･ﾟ✧*:･ﾟ✧</p>
-
-|       |       |
-|-------|-------|
-|**Desc.**| A vault for your code, a memory for your trembling heart  |
-|**Status**|Still growing 🌱|
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=cherry-v&theme=tokyonight)](https://github.com/cheporte/cherry-v)
-
----
-
 > *... More to be added soon ...*
 
 </div>
